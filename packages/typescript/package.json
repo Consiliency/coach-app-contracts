@@ -36,7 +36,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Frontierstrategies-ai/coach-app-contracts.git",
+    "url": "https://github.com/Consiliency/coach-app-contracts.git",
     "directory": "packages/typescript"
   },
   "devDependencies": {

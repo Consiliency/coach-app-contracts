@@ -34,7 +34,7 @@ dev = [
 ]
 
 [project.urls]
-Repository = "https://github.com/Frontierstrategies-ai/coach-app-contracts"
+Repository = "https://github.com/Consiliency/coach-app-contracts"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/coach_app_baml_client"]
